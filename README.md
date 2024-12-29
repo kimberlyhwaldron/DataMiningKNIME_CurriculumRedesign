@@ -1,2 +1,2 @@
 
-## **[PDF: Data Mining for Curriculum Redesign](https://kimberlyahealy.github.io/DataMiningKNIME_CurriculumRedesign/)**
+## **[PDF: Data Mining for Curriculum Redesign](https://kimberlyhwaldron.github.io/DataMiningKNIME_CurriculumRedesign/)**
